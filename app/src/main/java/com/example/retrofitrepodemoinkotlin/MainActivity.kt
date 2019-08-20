@@ -26,6 +26,6 @@ class MainActivity : AppCompatActivity() {
                 val res = response.body()
                 Log.d("MainActivity", res!![0].name)
             }
-        });
+        })
     }
 }
