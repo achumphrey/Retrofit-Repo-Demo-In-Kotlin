@@ -1,4 +1,4 @@
-package com.example.retrofitrepodemoinkotlin.network
+package com.example.retrofitrepodemoinkotlin.network.github
 
 import com.example.retrofitrepodemoinkotlin.Constants
 import okhttp3.OkHttpClient
